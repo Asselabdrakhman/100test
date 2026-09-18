@@ -1,0 +1,21 @@
+{
+  "name": "ҰБТ – Қазақстан тарихы: 100 сұрақ",
+  "short_name": "ҰБТ 100",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#111827",
+  "lang": "kk",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
